@@ -14,7 +14,7 @@
 
 <br>
 
-- Software Engineering Student and passionate Backend Developer
+- Systems Engineering Student and passionate Backend Developer
 - I'm currently learning DevOps and FastAPI on my own.
 - I'm currently open to an internship or a new job opportunity.
 - Music lover.
