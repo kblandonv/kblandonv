@@ -45,7 +45,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kblandonv&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=kblandonv&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=kblandonv&show_icons=true" />
